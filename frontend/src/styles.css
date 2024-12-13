@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
-  font-size: 5rem;
-  margin: 6rem;
+  font-size: 6rem;
+  margin: 4rem 0;
   text-decoration: underline;
 }
 
@@ -15,8 +15,14 @@ form {
   padding: 2rem;
 }
 
+#input {
+  display: flex;
+  gap: 1rem;
+}
+
 p {
   text-align: center;
+  margin: 0;
 }
 
 #messageInput,
